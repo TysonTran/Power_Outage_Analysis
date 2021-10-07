@@ -1,4 +1,7 @@
 # Power_Outage_Analysis
+This is a exploratory data analysis of a Major Power Outage in the US dataset from Purdue's Laboratory for Advancing Sustainable Critical Infrastructure. I was exploring the data to gain insight into who are the people most affected by major power outages and created a ML model to predict if an individual would be affected by a major power outage or not.
+
+## Findings
 
 ### Where do Major Power Outages Tend to Occur
 - California has the most Major Power outages with Texas and Michigan following
